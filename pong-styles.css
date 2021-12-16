@@ -19,13 +19,13 @@ body {
 }
 
 #left-paddle {
-  background-color: white;
+  background-color: gold;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: white;
+  background-color: gold;
   right: 10px;
 }
 
@@ -76,7 +76,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: white;
+  background-color: gold;
   border-radius: 10px;
   position: absolute;
   left: 50px;
