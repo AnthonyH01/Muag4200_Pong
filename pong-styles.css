@@ -3,6 +3,13 @@ Some properties like position and size get set by the game
 Feel free to play with things like color or font
 */
 
+/*The theme I am aiming for with the game is that of a cavernous
+factory. The background is a gif of a factory, and the paddles
+and ball all have gray or silver metallic colors to match the
+factory aesthetic, and the sounds will reverberate on top of
+the background noise of the factory.
+*/
+
 html,
 body {
   padding: 0;
