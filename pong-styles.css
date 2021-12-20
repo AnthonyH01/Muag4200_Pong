@@ -19,13 +19,13 @@ body {
 }
 
 #left-paddle {
-  background-color: silver;
+  background-color: DimGray;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: silver;
+  background-color: DimGray;
   right: 10px;
 }
 
@@ -76,7 +76,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: white;
+  background-color: Silver;
   border-radius: 10px;
   position: absolute;
   left: 50px;
@@ -86,7 +86,7 @@ body {
 .score {
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: White;
   top: 0;
 }
 
