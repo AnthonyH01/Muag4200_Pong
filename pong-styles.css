@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image: url("gears.gif");
+  background-image: url("factorybackground.gif");
   background-size: cover;
 }
 
