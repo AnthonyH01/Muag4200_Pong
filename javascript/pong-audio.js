@@ -8,7 +8,7 @@ class soundFile {
   constructor(file, deferPlay) {
     //this.deferPlay = false;
     this.player = new Tone.Player({
-      url: "Muag4200_pong/sounds" + file,
+      url: "AnthonyH01/Muag4200_pong/sounds" + file,
       loop: false,
       autostart: false
     }).toMaster();
